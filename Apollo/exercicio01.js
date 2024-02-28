@@ -1,14 +1,11 @@
 
 let nome = "Yurik";
 let idade = 21;
-
-
 console.log(` Eu sou ${nome}, tenho ${idade} anos.`);
 
 
 let numero1 = 1;
 let numero2 = 2;
-
 let soma = numero1 + numero2;
 let subtracao = numero1 - numero2;
 let multiplicacao = numero1 * numero2;
@@ -24,19 +21,15 @@ let palavra1 = "teste";
 let palavra2 = "teste2";
 let concat = palavra1 + " " + palavra2;
 console.log(concat);
-
-
 let string = "Teste";
 console.log("Primeiro caractere:", string.charAt(0));
 console.log("Último caractere:", string.charAt(string.length - 1));
-
 
 let x = 5;
 let y = 10;
 
 console.log(`${x} é maior que ${y}?`, x > y);
 console.log(`${x} é menor que ${y}?`, x < y);
-
 
 let externa = "externa";
 
